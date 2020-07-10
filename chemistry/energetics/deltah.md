@@ -2,32 +2,46 @@
 ## 📖 Definitions
 
 <details>
-  <summary>Standard Enthalpy Changes</summary>
+  <summary>Standard Enthalpy Changes (Click to Expand)</summary>
   
 ### Standard Enthalpy Change of Reaction 
 The enthalpy change when molar quantities of reactants as stated in a chemical equation react together at 298K and 1 bar.  
-![Alt Text](https://latex.codecogs.com/gif.latex?H_2SO_4&space;&plus;&space;2NaO&space;\kern-0.1em&space;H&space;\rightarrow&space;H_2O&space;&plus;&space;Na_2SO_4&space;\qquad&space;\Delta&space;H_{r}^{\theta})
+![](https://latex.codecogs.com/gif.latex?H_2SO_4&space;&plus;&space;2NaO&space;\kern-0.1em&space;H&space;\rightarrow&space;H_2O&space;&plus;&space;Na_2SO_4&space;\qquad&space;\Delta&space;H_{r}^{\theta})
 
 ### Standard Enthalpy Change of Formation  
 The enthalpy change when one mole of a substance is formed from its constituent elements in their standard states at 298K and 1 bar.   
-![Alt Text](https://latex.codecogs.com/gif.latex?N_2&space;&plus;&space;\frac{1}{2}O_2&space;\rightarrow&space;N_2O&space;\qquad&space;\Delta&space;H_{f}^{\theta})
+![](https://latex.codecogs.com/gif.latex?N_2&space;&plus;&space;\frac{1}{2}O_2&space;\rightarrow&space;N_2O&space;\qquad&space;\Delta&space;H_{f}^{\theta})
 
 ### Standard Enthalpy Change of Combustion
 The heat energy evolved when one mole of a substance is completely burned in excess oxygen at 298K and 1 bar.  
-![Alt Text](https://latex.codecogs.com/gif.latex?C_2H_6&space;&plus;&space;\frac{7}{2}O_2&space;\rightarrow&space;2CO_2&space;&plus;&space;3H_2O&space;\qquad&space;\Delta&space;H_{c}^{\theta})
+![](https://latex.codecogs.com/gif.latex?C_2H_6&space;&plus;&space;\frac{7}{2}O_2&space;\rightarrow&space;2CO_2&space;&plus;&space;3H_2O&space;\qquad&space;\Delta&space;H_{c}^{\theta})
 
 ### Standard Enthalpy Change of Neutralisation
 The enthalpy change when an acid and a base react under infinitely dilute conditions to form one mole of water at 298K and 1 bar.   
-![Alt Text](https://latex.codecogs.com/gif.latex?HCl&space;(aq)&space;&plus;&space;NaO&space;\kern-0.15em&space;H&space;(aq)&space;\rightarrow&space;NaCl&space;(aq)&space;&plus;&space;H_2O&space;(l))
+![](https://latex.codecogs.com/gif.latex?HCl&space;(aq)&space;&plus;&space;NaO&space;\kern-0.15em&space;H&space;(aq)&space;\rightarrow&space;NaCl&space;(aq)&space;&plus;&space;H_2O&space;(l))
 
 ### Standard Enthalpy Change of Atomization
 The heat energy evolved when one mole of free gaseous atoms is formed from its element in its standard state at 298K and 1 bar.  
-![Alt Text](https://latex.codecogs.com/gif.latex?\frac{1}{2}&space;F_2(g)&space;\rightarrow&space;F(g))
+![](https://latex.codecogs.com/gif.latex?\frac{1}{2}&space;F_2(g)&space;\rightarrow&space;F(g))
+
+###
 </details>
 
 ### Bond Energy
 The average energy required to break one mole of a covalent bond in a gaseous species into constituent gaseous atoms at 298K and 1 bar.  
-![Alt Text](https://latex.codecogs.com/gif.latex?O_2(g)&space;\rightarrow&space;2O(g)&space;\qquad&space;\Delta&space;H&space;\text{=&space;Bond&space;Energy})
+![](https://latex.codecogs.com/gif.latex?O_2(g)&space;\rightarrow&space;2O(g)&space;\qquad&space;\Delta&space;H&space;\text{=&space;Bond&space;Energy})
+
+### Lattice Energy
+The heat energy evolved when one mole of solid **ionic compound** is formed from its constituent gaseous ions at 298K and 1 bar.
+![](https://latex.codecogs.com/gif.latex?Na^&plus;(g)&space;&plus;&space;Cl^-(g)&space;\rightarrow&space;NaCl&space;(s))
+
+### First Ionization Energy
+The minimum energy needed to remove completely one mole of valence electrons from one mole of gaseous ground state atoms.
+![](https://latex.codecogs.com/gif.latex?Na(g)&space;\rightarrow&space;Na^&plus;&space;(g)&space;&plus;&space;e^-&space;\qquad&space;\Delta&space;H&space;=&space;\text{Ionization&space;Energy})
+
+### First Electron Affinity
+The enthalpy change when one mole of gaseous atoms gains one mole of electrons to form one mole of gaseous, unipositive anions.
+![](https://latex.codecogs.com/gif.latex?Na(g)&space;&plus;&space;e^-&space;\rightarrow&space;Na^-&space;(g)&space;\qquad&space;\Delta&space;H&space;=&space;\text{Ionization&space;Energy})
 
 ### Hess' Law
 The total enthalpy change of a reaction is the same whether the reaction takes place in one step or multiple steps, provided the initial states of the reactants and the final states of the products remains the same.
