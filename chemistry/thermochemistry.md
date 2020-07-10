@@ -2,7 +2,7 @@
 ## Definitions
 ### Standard Enthalpy Change of Reaction 
 The enthalpy change when molar quantities of reactants as stated in a chemical equation react together at 298K and 1 bar.  
-![Alt Text](https://latex.codecogs.com/gif.latex?H_2SO_4&space;&plus;&space;2NaO&space;\kern-0.1em&space;H&space;\rightarrow&space;H_2O&space;&plus;&space;Na_2SO_4&space;\qquad&space;\Delta&space;H_{r}^{\theta})
+![Alt Text](https://latex.codecogs.com/gif.latex?H_2SO_4&space;&plus;&space;2NaO&space;\kern-0.1em&space;H&space;\rightarrow&space;H_2O&space;&plus;&space;N\kern-0.1em%a_2SO_4&space;\qquad&space;\Delta&space;H_{r}^{\theta})
 
 ### Standard Enthalpy Change of Formation  
 The enthalpy change when one mole of a substance is formed from its constituent elements in their standard states at 298K and 1 bar.  
