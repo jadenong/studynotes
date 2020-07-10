@@ -35,10 +35,14 @@ The quantity of heat needed to raise the temperature of one gram of a substance 
 ![Alt Text](https://latex.codecogs.com/gif.latex?Q&space;=&space;mc\Delta&space;T)
 
 ### Enthalpy Change of Reaction 
-![Alt Text](https://latex.codecogs.com/gif.latex?\Delta&space;H_{r}^{\theta}&space;=&space;\frac{Q}{n},&space;\kern0.3em&space;n&space;\kern0.3em&space;\text{is&space;the&space;number&space;of&space;moles&space;of&space;the&space;limiting&space;reagent.})
-![Alt Text](https://latex.codecogs.com/gif.latex?\Delta&space;H_{r}^{\theta}&space;=&space;\Delta&space;H_{\textit{Bond&space;Breaking}}^\theta&space;&plus;&space;\Delta&space;H_{\textit{Bond&space;Forming}}^\theta)
-![Alt Text]()
-![Alt Text]()
+
+![Alt Text](https://latex.codecogs.com/gif.latex?\Delta&space;H_{r}^{\theta}&space;=&space;\frac{Q}{n},&space;\kern0.3em&space;n&space;\kern0.3em&space;\text{is&space;the&space;number&space;of&space;moles&space;of&space;the&space;limiting&space;reagent.})  
+
+![Alt Text 2](https://latex.codecogs.com/gif.latex?\Delta&space;H_{r}^{\theta}&space;=&space;\Delta&space;H_{\textit{Bond&space;Breaking}}^\theta&space;&plus;&space;\Delta&space;H_{\textit{Bond&space;Forming}}^\theta)  
+
+![Alt Text 3](https://latex.codecogs.com/gif.latex?\Delta&space;H_{r}^{\theta}&space;=&space;\Delta&space;H_{f}^\theta&space;\text{(products)}-&space;\Delta&space;H_{f}^\theta&space;\text{(reactants)})  
+
+![Alt Text 4](https://latex.codecogs.com/gif.latex?\Delta&space;H_{r}^{\theta}&space;=&space;\Delta&space;H_{c}^\theta&space;\text{(reactants)}-&space;\Delta&space;H_{c}^\theta&space;\text{(products)})  
 
 ### Heat Capacity
 ![Alt Text](https://latex.codecogs.com/gif.latex?C&space;=&space;c*m,&space;\kern0.3em&space;\text{heat&space;capacity&space;is&space;specific&space;heat&space;capacity&space;times&space;mass.})
