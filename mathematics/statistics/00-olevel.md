@@ -1,0 +1,2 @@
+# 'O' Level Statistics
+Statistics is taught 'O' level at some level, but usually with very little mathematical rigor or thought involved. What students learn, mostly, is a definition of a formula (such as the formula to compute standard deviation) and how to use it. Students, however, are not exposed to the reasoning behind why such a formula works, what it produces, and why the product is useful. In this set of notes, I aim to shed light on the statistics that is taught at 'O' level, and to give a mathematical and practical basis behind it.
