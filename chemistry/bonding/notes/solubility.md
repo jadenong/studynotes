@@ -12,6 +12,8 @@ The lattice energy of an ionic compound is the amount of energy it takes to form
 
 In order for an ionic compound to be soluble in water, the energy released from ion-dipole interactions must be greater than the energy of hydrogen bonding and the lattice energy. Ion dipole interactions, being electrostatic interactions, can also be described with Coulomb's law.  
 
+(We can regard the force, or energy, of ion-dipole interactions between water and different compound to be constant so that we can focus on how the lattice energy affects solubility.)
+
 ## Solubility Rules
 1. Most ammonium and alkali metal salts are soluble.
 2. Most halides, sulphates and nitrates are soluble, except for lead(II) and silver chloride, and barium, calcium, and lead(II) sulphate.
@@ -28,7 +30,7 @@ Using the lattice energy equation, it is trivial to see how alkali metal salts a
 
 **2. Most alkali metal salts are soluble.**
 
-Let's move on to rule two. Halide and nitrate ions both have high masses and low-magnitude charges. Nitrates are relatively uncomplicated, so we'll leave that alone, but halides do form insoluble compounds, for reasons that cannot be explained with lattice energies. Therefore:
+Let's move on to rule two. Halide and nitrate ions both have high masses and low-magnitude charges. Nitrates are relatively uncomplicated, so we'll leave that alone, but halides do form insoluble compounds, for reasons that cannot be explained with Coulomb's law. Therefore:
 
 **3. Most nitrate salts are soluble.**
 
@@ -40,13 +42,31 @@ One more ion which is able to form bonds with sulphate is strontium. Therefore:
 
 **5. Most sulphate salts are soluble, except for those with calcium, barium, lead(II) and strontium cations.**
 
-Rule three is easy enough. Carbonates (CO3 2-), phosphates (PO4 3-), and hydroxides (OH-), have a high charge-mass ratio, and typically form insoluble salts. However, the first and second rules take precedent over insolubility rules. Also, because reasons, calcium[1] and barium hydroxides are soluble. Therefore:
+Rule three is easy enough. Carbonates (CO3 2-), phosphates (PO4 3-), and hydroxides (OH-), have a high charge-mass ratio, and typically form insoluble salts. However, the first and second rules take precedent over insolubility rules. Also, because reasons, calcium[1] and barium hydroxides are soluble. Therefore:  
+
 **6. Carbonates, phosphates, and hydroxides are insoluble, except for calcium and barium hydroxides.**
 
-(We can regard the force, or energy, of ion-dipole interactions between water and different compound to be constant so that we can focus on how the lattice energy affects solubility.)
-## The Solubility Constant
+The last rule is a tricky one to tackle, because it's very wrong. The rules we've made cover most soluble cations and anions that *can possibly* form soluble salts, barring some. Most other ions and their compounds have lattice energies too high to be dissolved. The rule we should instead use is:  
 
-### Further reading:
+**7. Most other salts are insoluble.**
+
+Combining the rules we've made, we obtain five, simple-to-remember, easy-to-understand rules.
+1. Most polyatomic, singly-charged ion salts are soluble, except for hydroxide salts. (Calcium and barium hydroxides are soluble.)
+2. Most alkali metal salts are soluble.
+3. Most halide salts are soluble, except for those with copper(I), lead(II), mercury(I), silver(I), thallium(I) cations.
+4. Most sulphate salts are soluble, except for those with calcium, barium, lead(II) and strontium cations.
+5. Most other salts are insoluble.
+
+[](## The Solubility Constant)
+
+## Summary & Conclusions
+1. Most polyatomic, singly-charged ion salts are soluble, except for hydroxide salts. (Calcium and barium hydroxides are soluble.)
+2. Most alkali metal salts are soluble.
+3. Most halide salts are soluble, except for those with copper(I), lead(II), mercury(I), silver(I), thallium(I) cations.
+4. Most sulphate salts are soluble, except for those with calcium, barium, lead(II) and strontium cations.
+5. Most other salts are insoluble.
+
+### Further Reading:
 https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/Chem_1403%3A_General_Chemistry_2/Text/11%3A_Intermolecular_Forces_and_Liquids/11.02%3A_Ion-Dipole_Forces
 https://chemed.chem.purdue.edu/genchem/topicreview/bp/ch18/soluble.php
 
