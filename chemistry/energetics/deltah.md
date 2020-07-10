@@ -33,7 +33,7 @@ The average energy required to break one mole of a covalent bond in a gaseous sp
 
 ### Lattice Energy
 The heat energy evolved when one mole of solid **ionic compound** is formed from its constituent gaseous ions at 298K and 1 bar.
-![](https://latex.codecogs.com/gif.latex?Na^&plus;(g)&space;&plus;&space;Cl^-(g)&space;\rightarrow&space;NaCl&space;(s))
+![](https://latex.codecogs.com/gif.latex?Na^&plus;(g)&space;&plus;&space;Cl^-(g)&space;\rightarrow&space;NaCl&space;(s)&space;\qquad&space;\Delta&space;H&space;=&space;\text{Lattice&space;Energy})
 
 ### First Ionization Energy
 The minimum energy needed to remove completely one mole of valence electrons from one mole of gaseous ground state atoms.
@@ -41,7 +41,7 @@ The minimum energy needed to remove completely one mole of valence electrons fro
 
 ### First Electron Affinity
 The enthalpy change when one mole of gaseous atoms gains one mole of electrons to form one mole of gaseous, unipositive anions.
-![](https://latex.codecogs.com/gif.latex?Na(g)&space;&plus;&space;e^-&space;\rightarrow&space;Na^-&space;(g)&space;\qquad&space;\Delta&space;H&space;=&space;\text{Ionization&space;Energy})
+![](https://latex.codecogs.com/gif.latex?Na(g)&space;&plus;&space;e^-&space;\rightarrow&space;Na^-&space;(g)&space;\qquad&space;\Delta&space;H&space;=&space;\text{Electron&space;Affinity})
 
 ### Hess' Law
 The total enthalpy change of a reaction is the same whether the reaction takes place in one step or multiple steps, provided the initial states of the reactants and the final states of the products remains the same.
