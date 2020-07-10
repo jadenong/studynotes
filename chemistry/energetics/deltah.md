@@ -24,7 +24,14 @@ The enthalpy change when an acid and a base react under infinitely dilute condit
 The heat energy evolved when one mole of free gaseous atoms is formed from its element in its standard state at 298K and 1 bar.  
 ![](https://latex.codecogs.com/gif.latex?\frac{1}{2}&space;F_2(g)&space;\rightarrow&space;F(g))
 
-###
+### Standard Enthalpy Change of Solution
+The enthalpy change when one mole of solute is completely dissolved to form an infinitely dilute solution at 298K and 1 Bar.
+![](https://latex.codecogs.com/gif.latex?NaCl(s)&space;\rightarrow&space;NaCl(aq)
+
+### Standard Enthalpy Change of Hydration
+The heat energy evolved when one mole of free gaseous ions is hydrated by water at 198K and 1 bar.
+![](https://latex.codecogs.com/gif.latex?Na^&plus;(g)&space;\rightarrow&space;Na^&plus;(aq))
+
 </details>
 
 ### Bond Energy
