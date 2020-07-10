@@ -39,3 +39,4 @@ We say that an operation is distributive when it does this:
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/8a891ef62f938fe3375f18a1253d1cc2ebf5f50d)
 
+Image sources: Wikipedia
