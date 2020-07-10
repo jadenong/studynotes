@@ -5,9 +5,40 @@ The enthalpy change when molar quantities of reactants as stated in a chemical e
 ![Alt Text](https://latex.codecogs.com/gif.latex?H_2SO_4&space;&plus;&space;2NaO&space;\kern-0.1em&space;H&space;\rightarrow&space;H_2O&space;&plus;&space;Na_2SO_4&space;\qquad&space;\Delta&space;H_{r}^{\theta})
 
 ### Standard Enthalpy Change of Formation  
-The enthalpy change when one mole of a substance is formed from its constituent elements in their standard states at 298K and 1 bar.  
+The enthalpy change when one mole of a substance is formed from its constituent elements in their standard states at 298K and 1 bar.   
 ![Alt Text](https://latex.codecogs.com/gif.latex?N_2&space;&plus;&space;\frac{1}{2}O_2&space;\rightarrow&space;N_2O&space;\qquad&space;\Delta&space;H_{f}^{\theta})
 
 ### Standard Enthalpy Change of Combustion
-The heat energy evolved when one mole of a substance is completely burned in excess oxygen at 298K and 1 bar.
+The heat energy evolved when one mole of a substance is completely burned in excess oxygen at 298K and 1 bar.  
 ![Alt Text](https://latex.codecogs.com/gif.latex?C_2H_6&space;&plus;&space;\frac{7}{2}O_2&space;\rightarrow&space;2CO_2&space;&plus;&space;3H_2O&space;\qquad&space;\Delta&space;H_{c}^{\theta})
+
+### Standard Enthalpy Change of Neutralisation
+The enthalpy change when an acid and a base react under infinitely dilute conditions to form one mole of water at 298K and 1 bar.   
+![Alt Text](https://latex.codecogs.com/gif.latex?HCl&space;(aq)&space;&plus;&space;NaO&space;\kern-0.15em&space;H&space;(aq)&space;\rightarrow&space;NaCl&space;(aq)&space;&plus;&space;H_2O&space;(l))
+
+### Standard Enthalpy Change of Atomization
+The heat energy evolved when one mole of free gaseous atoms is formed from its element in its standard state at 298K and 1 bar.  
+![Alt Text](https://latex.codecogs.com/gif.latex?\frac{1}{2}&space;F_2(g)&space;\rightarrow&space;F(g))
+
+### Bond Energy
+The average energy required to break one mole of a covalent bond in a gaseous species into constituent gaseous atoms at 298K and 1 bar.  
+![Alt Text](https://latex.codecogs.com/gif.latex?O_2(g)&space;\rightarrow&space;2O(g)&space;\qquad&space;\Delta&space;H&space;\text{=&space;Bond&space;Energy})
+
+### Heat Capacity, C
+The quantity of heat needed to raise the temperature of a substance by 1K. (Units: J/K)  
+
+### Specific Heat Capacity, c
+The quantity of heat needed to raise the temperature of one gram of a substance by 1K. (Units: J/gK). 
+
+## Formulas
+### Heat Change of Reaction
+![Alt Text](https://latex.codecogs.com/gif.latex?Q&space;=&space;mc\Delta&space;T)
+
+### Enthalpy Change of Reaction 
+![Alt Text](https://latex.codecogs.com/gif.latex?\Delta&space;H_{r}^{\theta}&space;=&space;\frac{Q}{n},&space;\kern0.3em&space;n&space;\kern0.3em&space;\text{is&space;the&space;number&space;of&space;moles&space;of&space;the&space;limiting&space;reagent.})
+![Alt Text](https://latex.codecogs.com/gif.latex?\Delta&space;H_{r}^{\theta}&space;=&space;\Delta&space;H_{\textit{Bond&space;Breaking}}^\theta&space;&plus;&space;\Delta&space;H_{\textit{Bond&space;Forming}}^\theta)
+![Alt Text]()
+![Alt Text]()
+
+### Heat Capacity
+![Alt Text](https://latex.codecogs.com/gif.latex?C&space;=&space;c*m,&space;\kern0.3em&space;\text{heat&space;capacity&space;is&space;specific&space;heat&space;capacity&space;times&space;mass.})
