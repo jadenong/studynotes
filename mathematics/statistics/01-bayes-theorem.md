@@ -41,7 +41,7 @@ Sometimes, P(X) is known as the marginal probability. You can think of it as bei
 When we have a conditional probability, it is the probability of an event occuring, given that a second, non-independent event occurs as well. The bar in the above equation just means 'given that'.
 
 ![](https://latex.codecogs.com/gif.latex?P(A|B)=\frac{P(A,B)}{P(B)})
-
+*Add derivation and intuition*
 This is an equation describing the relationship between conditional, marginal, and joint probability.
 
 ## Bayes' Theorem
