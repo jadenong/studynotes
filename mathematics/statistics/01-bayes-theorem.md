@@ -5,6 +5,9 @@ Bayes' Theorem asserts the following:
 
 This equation can seem daunting and its applications can produce results that are counterintuitive. In this set of notes, I aim to explain Bayes' Theorem and run through a few applications of it. I will also explain joint and conditional probabilities, and the sum and product rule.  
 
+# Independent and Dependent Events
+In the 'O' level, you may have learned about the probability of two events happening and the probability of one of two events happening. Those equations only apply to events that are not independent of each other. When it comes to dependent events, new formulas and definitions must be learned to solve increasingly interesting and complex problems.
+
 ## Sum Rule
 When dealing with probabilities, we might get a series of joint probabilities (i.e. probabilities of two independent events both occuring). Let's examine the following, somewhat contrived, data set as an example.
 
