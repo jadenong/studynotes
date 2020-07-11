@@ -30,11 +30,19 @@ Sometimes, P(X) is known as the marginal probability. You can think of it as bei
 
 <details>
   <summary>Problems (click to expand)</summary>
-  1. Using the above data set, find the probability of a patient with disease X having blue hair.
+  1. Using the above data set, find the probability of a patient with disease X having blue hair.  
   2. What is the sum of all the joint probabilities of a data set? Explain why.
 </details>
 
-## Conditional probability
+## Product Rule
+
+![](https://latex.codecogs.com/gif.latex?P(A|B)=&space;P(A)\kern0.3em&space;\text{given}\kern0.3em&space;B)
+
+When we have a conditional probability, it is the probability of an event occuring, given that a second, non-independent event occurs as well. The bar in the above equation just means 'given that'.
+
+![](https://latex.codecogs.com/gif.latex?P(A|B)=\frac{P(A,B)}{P(B)})
+
+This is an equation describing the relationship between conditional, marginal, and joint probability.
 
 ## Bayes' Theorem
 
@@ -44,3 +52,5 @@ You Know I’m All About that Bayes. CrashCourse. https://www.youtube.com/watch?
 The Bayesian Trap. Veritasium. https://www.youtube.com/watch?v=R13BD8qKeTg
 Bayes Theorem. 3Blue1Brown. https://www.youtube.com/watch?v=HZGCoVF3YvM  
 The Quick Proof Of Bayes' Theorem. 3Blue1Brown. https://www.youtube.com/watch?v=U_85TaXbeIo  
+
+What Is A Marginal Probability? Ox educ. https://www.youtube.com/watch?v=r27mouuyFQk
