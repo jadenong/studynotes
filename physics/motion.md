@@ -10,13 +10,17 @@ Around 350 years ago, there lived a scientist named Issac Newton who formulated 
 
 #### An object will remain rest or at constant velocity unless acted upon by a net force.
 
-This law is sometimes also known as the *Law of Inertia* as it describes that objects resist changes in motion. This resistance is known as inertia.
+This law is sometimes also known as the *Law of Inertia* as it describes that objects resist changes in motion. This resistance is known as inertia. The inertia of an object is measured by its mass, meaning that heavy objects resist changes in motion more, while lighter objects resist changes less.
 
 ### Newton's Second Law  
 
 #### The net force on an object equals its mass multiplied by its acceleration.  
 
 ![](https://www.gstatic.com/education/formulas/images_long_sheet/en/newtons_second_law.svg)
+
+The derivation of this equation is simple. First, understand that the acceleration of an object is inversely proportional to its mass. In other words, the heavier an object is, the harder it is to accelerate it. This property actually comes from the law of inertia. Next, we must understand that the force acting on an object is proportional to its acceleration. In other words, a force causes an object to accelerate, and the amount by which the object accelerates depends on the amount of force applied. Combining the two equations, we get:
+
+![](https://latex.codecogs.com/gif.latex?F\propto&space;a,\kern0.3em&space;a\propto&space;\frac{1}{m}\implies&space;a=\frac{F}{m}&space;\iff&space;F=ma)
 
 This instance of the law is sometimes described as a specific version of the 'real' second law, which is that the net force on an object is proportional to the rate of change of its momentum. (Linear momentum equals mass times velocity.)
 
