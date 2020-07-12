@@ -41,4 +41,6 @@ This law is sometimes known by its slightly less precise definition: "For every 
   i) Think of three examples, one for each law, where Newton's laws of motions have application.  
   
   ii) You are on a sled pulled by a dog, moving uphill on a mountain at constant speed. Assuming there is no frictional force, what the net force acting on you? Take the acceleration of gravity to be 10 ms<sup>-2</sup>, and your mass to be 60 kg.
+  
+  iii) You hit a ping pong and tennis ball with the same force. What are the accelerations of each ball relative to each other, at the time of your hitting them (i.e. do they have the same acceleration?)? Why?
 </details>
