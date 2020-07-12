@@ -12,6 +12,18 @@ When we measure the angular displacement, we must also take into account directi
 
 To use the right-hand rule, position your right hand such that the curve of your fingers is in the same direction that the object is rotating in. Then, if the thumb faces upward, the angular displacement is positive; and if the thumb faces downwards, the angular displacement is negative.
 
+### Torque
+
+A torque is the analogy to the force. A force causes an object to accelerate; a torque causes an object to rotate.
+
+### Rotational Mass
+
+The moment of inertia is the analogy to the mass. The moment of inertia measures the resistant of an object to a change in its angular displacement.
+
+### Lever Arm
+
+The lever arm is the perpendicular distance between the center of rotation and the point where a force is acting on an object. The torque equals the lever arm times force.
+
 ### Newton's Laws
 
 Newton's laws of motion also have an analogy in rotational motion.
@@ -22,9 +34,13 @@ An object will remain at rest or spin at constant angular velocity unless acted 
 
 #### Newton's Second Law of Rotational Motion
 
+The net torque equals the moment of inertia times its angular acceleration.
+
 #### Newton's Third Law of Rotational Motion
 
 
 ## Rotating and Translating Objects
 
 An object can rotate and move through space at the same time. In the case of projectile motion, the object's centre of mass will follow the path of a parabola, while the rest of the object will rotate about its centre of mass.
+
+## Wrench
