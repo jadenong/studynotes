@@ -25,3 +25,6 @@ Recall also that the mass of an object is proportional to its force.
 ![](https://latex.codecogs.com/gif.latex?m\propto&space;F)
 
 So, heavier objects will experience a greater downwards force, and lighter objects experience a smaller downwards force. But wouldn't this mean contradict what we established earlier? Experimental data has shown that the acceleration of all free-falling objects is constant, and we must therefore conclude that the inertia must counteract the additional gravitational force.
+
+## Further reading.
+https://www.grc.nasa.gov/www/k-12/airplane/ffall.html
