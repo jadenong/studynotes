@@ -16,11 +16,11 @@ One interesting thing you can do with magic squares is magic tricks. I got this 
 
 First, we must learn to construct a simple magic square. Start off with an empty 4x4 grid. 
 
-| | | | |
-|-|-|-|-|
-| | | | |
-| | | | |
-| | | | |
+|    |    |    |    |
+|----|----|----|----|
+|    |    |    |    |
+|    |    |    |    |
+|    |    |    |    |
 
 Start filling up the grid in order from one to sixteen, but skip numbers that fall on the diagonals. If done correctly, your square would look like this:
 
