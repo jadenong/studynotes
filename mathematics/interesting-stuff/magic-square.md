@@ -34,5 +34,32 @@ With the numbers you've omitted, start filling the remaining squares but in desc
 
 And you're done. There's your magic square with n = 34.
 
-There's a simple formula to find an n for a square of any size. Take the number of rows, cube it, add the cube to itself, and divide it by two. The result you obtain will always be a magic number for the square. Before we do any magic, we'll need to learn another trick.
+There's a simple formula to find an n for a square of any size. Take the number of rows, cube it, add the cube to itself, and divide it by two. The result you obtain will always be a magic number for the square. Before we do any magic, we'll need to learn another property.
 
+#
+
+As long as we do it consistently, we can move the numbers around in the magic square. For instance, I can divide the above square into four equal blocks, each containing four numbers (16, 2, 5, 11; 3, 13, 10, 8; 9, 7, 4, 14; 6, 12, 15, 1). As long as I do to one block what I do to another block, my square will still be magic. For instance, let's make each block into a line. So, I make 16, 2, 5, 11 be a row, and so on. I'll get the following square:
+
+| 16 | 2  | 5  | 11 |
+|----|----|----|----|
+| 3  | 13 | 10 | 8  |
+| 9  | 7  | 4  | 14 |
+| 6  | 12 | 15 | 1  |
+
+The square is still magic. 
+
+## Magic
+Now here's the trick. Blaine said that the trick will "leave your audience convinced you're smarter than the top Mensa members." Whether or not that happens, you'll have to find out for yourself. First, explain to your audience what a magic square is. Include all the detail, especially the part about the four corners and the innermost squares. 
+
+(You'll need to memorise the above square, or any 4x4 square that you've made with the above heuristic, for this next part.) Proclaim that you can construct a square whose magic number is anywhere between 20 and 75. Emphasize tbe higher number. If what the spectator says is below 34, tell him to go higher. If the number is 34, write down the number you've memorised. If the number is above 34, then subtract 21 from the magic number chosen. Put that number where you would've placed 13. For instance, if the spectator chose 50, subtract 21 to obtain 29 and replace 13 with 29. Replace 14 with the subsequent number, 30. Replace 15 with 31, and so on. You'll obtain something like this:
+
+| 32 | 2  | 5  | 11 |
+|----|----|----|----|
+| 3  | 29 | 10 | 8  |
+| 9  | 7  | 4  | 30 |
+| 6  | 12 | 31 | 1  |
+
+Magic! You've convinced your friend that you really are that smart.
+
+## Proof
+TBA
