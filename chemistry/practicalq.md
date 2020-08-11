@@ -7,7 +7,7 @@ Construct plans for the following experiments:
 * Determine the concentration of sodium chlorate (I) and the enthalpy change of the reaction between sodium chlorate, sodium hydroxide, and sodium thiosulfate.
 
 Answers:
-* (Copper metal is unreactive with sulfuric acid, so an alternative pathway must be found). [](Include Hess' Law here). 
+* (Copper metal is unreactive with sulfuric acid, so an alternative pathway must be found). [Include Hess' Law here]. 
 
 Using a 25.0cm<sup>3</sup> pippete, measure out 25.0cm<sup>3</sup> of sulfuric acid. Amount of sulfuric acid in the volume obtained equals 0.025 mol. 
 
