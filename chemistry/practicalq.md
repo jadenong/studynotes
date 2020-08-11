@@ -7,11 +7,11 @@ Construct plans for the following experiments:
 * Determine the concentration of sodium chlorate (I) and the enthalpy change of the reaction between sodium chlorate, sodium hydroxide, and sodium thiosulfate.
 
 Answers:
-* (Copper metal is unreactive with sulfuric acid, so an alternative pathway must be found). ![Include Hess' Law here](ph). 
+* (Copper metal is unreactive with sulfuric acid, so an alternative pathway must be found). ![Include Hess' Law here](ph.com). 
 
 Using a 25.0cm<sup>3</sup> pippete, measure out 25.0cm<sup>3</sup> of sulfuric acid. Amount of sulfuric acid in the volume obtained equals 0.025 mol. 
 
-Add the sulfuric acid to a styrofoam cup supported in a 250cm<sup>3</sup> beaker. ![sulfuric acid congruent copper metal](ph) Weigh accurately 1.00g of magnesium metal in a clean dry stoppered weighing bottle. ![Cu molar mass times amount](ph) 
+Add the sulfuric acid to a styrofoam cup supported in a 250cm<sup>3</sup> beaker. ![sulfuric acid congruent copper metal](ph.com) Weigh accurately 1.00g of magnesium metal in a clean dry stoppered weighing bottle. ![Cu molar mass times amount](ph.com) 
 
 Measure the temperature of the solution in cup and start the stopwatch. Continue measuring the temperature at half-minute intervals for two minutes. Add the 2.5 minute mark, add the magnesium metal into the acid and stir. Continue measuring the temperature at half-minute intervals until the temperature remains constant. Stir throughout. 
 
