@@ -57,7 +57,7 @@ Combining the rules we've made, we obtain five, simple-to-remember, easy-to-unde
 4. Most sulphate salts are soluble, except for those with calcium, barium, lead(II) and strontium cations.
 5. Most other salts are insoluble.
 
-![](## The Solubility Constant)
+## The Solubility Constant
 
 ## Summary & Conclusions
 1. Most polyatomic, singly-charged ion salts are soluble, except for hydroxide salts. (Calcium and barium hydroxides are soluble.)
